@@ -316,8 +316,8 @@ elif st.session_state.mode == modes[1]:
         cols = st.columns(4)
         cols[0].button('⏮ Prev', on_click=on_next_prev, args=(False, ))
         cols[1].button('Next ⏭', on_click=on_next_prev, args=(True, ))
-        cols[2].button('Auto 🐢', on_click=auto)
-        cols[3].button('Auto ⚡', on_click=annotate_all)
+        cols[2].button('Auto 🐢', 'on_click=auto')
+        cols[3].button('Auto ⚡', 'on_click=annotate_all')
 
 
         containers = []
