@@ -14,6 +14,7 @@ from functools import partial
 from emoji import get_emoji_regexp
 from flashtext import KeywordProcessor
 from sklearn.base import BaseEstimator, TransformerMixin
+from sklearn.feature_extraction.text import CountVectorizer
 
 
 
@@ -88,13 +89,46 @@ class TextCleaner(TextCleanerBase):
                 .apply(self.normalize_hashtag) \
                 .apply(self.remove_specialchar)
 
-pipeline_fp = Path('./model/pipe.joblib')
+train_data = pd.read_csv('./file csv/Train.csv')
+dev_data = pd.read_csv('./file csv/Dev.csv')
+test_data = pd.read_csv('./file csv/Test.csv')
+
+def ConvertOutput(df):
+    X = df.pop('review')
+    y = df.replace({np.nan: 0,
+                    'negative': 1,
+                    'neutral': 2,
+                    'positive': 3}).astype(np.uint8)
+
+    print('X.shape:', X.shape, 'y.shape:', y.shape)
+    return X, y
+
+Xtrain, ytrain = ConvertOutput(train_data)
+Xdev,   ydev   = ConvertOutput(dev_data)
+Xtest,  ytest  = ConvertOutput(test_data)
+
+# Advanced text cleanup
+cleaner       = TextCleaner()
+
+xtrain        = cleaner.transform(Xtrain)
+xdev          = cleaner.transform(Xdev)
+xtest         = cleaner.transform(Xtest)
+
+vectorizer = CountVectorizer()
+
+# x data using advanced clean up class and basic features extrator
+xtrain_basef = vectorizer.fit_transform(xtrain)
+xdev_basef   = vectorizer.transform(xdev)
+xtest_basef  = vectorizer.transform(xtest)
+
+pipeline_fp = Path('C:/Users/DELL/Downloads/pipe.joblib')
 
 full_pipeline = joblib.load(pipeline_fp)
 
 
 def classify_sentence(sentence):
-    return full_pipeline.predict([sentence])[0].astype(np.uint)
+    sentence = vectorizer.transform([sentence])
+    return full_pipeline.predict(sentence)[0].astype(np.uint)
 
 
 def multioutput_to_multilabel(y):
@@ -316,8 +350,8 @@ elif st.session_state.mode == modes[1]:
         cols = st.columns(4)
         cols[0].button('⏮ Prev', on_click=on_next_prev, args=(False, ))
         cols[1].button('Next ⏭', on_click=on_next_prev, args=(True, ))
-        cols[2].button('Auto 🐢', 'on_click=auto')
-        cols[3].button('Auto ⚡', 'on_click=annotate_all')
+        cols[2].button('Auto 🐢', on_click=auto)
+        cols[3].button('Auto ⚡', on_click=annotate_all)
 
 
         containers = []
