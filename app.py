@@ -100,7 +100,7 @@ def ConvertOutput(df):
                     'neutral': 2,
                     'positive': 3}).astype(np.uint8)
 
-    print('X.shape:', X.shape, 'y.shape:', y.shape)
+    # print('X.shape:', X.shape, 'y.shape:', y.shape)
     return X, y
 
 Xtrain, ytrain = ConvertOutput(train_data)
@@ -121,7 +121,7 @@ xtrain_basef = vectorizer.fit_transform(xtrain)
 xdev_basef   = vectorizer.transform(xdev)
 xtest_basef  = vectorizer.transform(xtest)
 
-pipeline_fp = Path('C:/Users/DELL/Downloads/pipe.joblib')
+pipeline_fp = Path('./model/pipe.joblib')
 
 full_pipeline = joblib.load(pipeline_fp)
 
