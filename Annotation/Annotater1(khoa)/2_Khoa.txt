@@ -1,0 +1,799 @@
+#1
+Chắc chắn sẽ cho em này vào list ưa thích khi đến Cheese.
+{RESTAURANT#GENERAL, positive}
+
+#2
+Không gian khá rộng, chia ra 2 khu một khu gia đình ngồi bàn đối diện nhau và một khu ngồi song song như thế này.
+{AMBIENCE#GENERAL, positive}
+
+#3
+Ấn tượng đầu tiên là không gian quán khá là ấm cúng, decor đẹp mắt.
+{AMBIENCE#GENERAL, positive}
+
+#4
+Nước Mixed barrie j đó khá lạ.
+{DRINKS#STYLE&OPTIONS, neutral}
+
+#5
+Ship đúng giờ, bánh cũng ngon nữa cốt mềm ẩm thích lắm, sốt trứng cũng ngon.
+{FOOD#QUALITY, positive}, {SERVICE#GENERAL, positive}
+
+#6
+Trong đó mình hay gọi nộm tai, chân gà cay ngọt, da ếch chiên giòn với chân giò :)).
+{FOOD#STYLE&OPTIONS, positive}
+
+#7
+Cổng được trang trí khá dễ thương với lồng đèn, cổng gỗ như các ngôi nhà cổ.
+{AMBIENCE#GENERAL, positive}
+
+#8
+Cửa hàng ở ngay mặt đường hàng trống thôi.
+{LOCATION#GENERAL, neutral}
+
+#9
+Mì ý hải sản ok, lava cake mang ra cuối ăn cũng được, mùi chocolate khá thơm, bánh nóng nhân chảy vừa ý nhưng NGỌT quá, ăn mau ngấy lắm luôn.
+{FOOD#QUALITY, positive}, {FOOD#STYLE&OPTIONS, positive}
+
+#10
+Nghe đến quán này nổi tiếng về steak lâu rồi nên bữa mình với chị đi ăn thử.
+{RESTAURANT#GENERAL, neutral}
+
+#11
+° Nhân viên:Nhanh nhẹn, nhiệt tình.
+{SERVICE#GENERAL, positive}
+
+#12
+Uống y chang nước lọc.
+{DRINKS#QUALITY, negative}
+
+#13
+Ở KOI ly nhỏ xíu à với lớp macchiato siêu mỏng, uống hem đã.
+{DRINKS#STYLE&OPTIONS, negative}
+
+#14
+Xốt tiêu là ngon nhất trong mấy loại xốt nơi này á.
+{FOOD#QUALITY, positive}
+
+#15
+Phục vụ nhanh, Không gian được, khăn lạnh miễn phí.
+{SERVICE#GENERAL, positive}, {AMBIENCE#GENERAL, neutral}
+
+#16
+Món đã dở, ko gian dơ mà bày đặt chảnh chó ko cần khách ko cần tiền thì dẹp cmn quán đi.
+{FOOD#QUALITY, negative}, {SERVICE#GENERAL, negative}, {AMBIENCE#GENERAL, negative}
+
+#17
+Ko trách các bạn đc các bạn cũng nhiệt tình nhưng tóm lại khâu phục vụ mình thấy tệ.
+{SERVICE#GENERAL, negative}
+
+#18
+Dessert thì ăn buốt răng quá nchung cũng ok.
+{FOOD#QUALITY, neutral}
+
+#19
+Thịt mực hơi dai nhưng bạn mình đánh giá là do chiên lâu mới như vậy.
+{FOOD#QUALITY, negative}
+
+#20
+Tuy nhiên khi đã đến thì bị chinh phục ngay bởi không gian quán ấm cúng, đậm chất Hội An.
+{AMBIENCE#GENERAL, positive}
+
+#21
+Tốt nhất mỗi cái ruốc ăn kèm.
+{FOOD#QUALITY, positive}
+
+#22
+Được lấy hoá đơn đỏ khi có yêu cầu.
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#23
+Đồ ăn chất lượng kém do không tươi.
+{FOOD#QUALITY, negative}
+
+#24
+Rau trụng tươi.
+{FOOD#QUALITY, positive}
+
+#25
+Nhân dịp happyday được giảm 30 % trên deliverynow nên mình order trà sữa về uống.
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#26
+Phục vụ nhiệt tình và cũng cute nữa :)).
+{SERVICE#GENERAL, positive}
+
+#27
++ Giá cả:rẻ hơn 5k so với trung bình những nơi khác.
+{RESTAURANT#PRICES, positive}
+
+#28
+Ram được làm nhân thịt, nấm.
+{FOOD#STYLE&OPTIONS, neutral}
+
+#29
+Hồng trà vải kem Cheese thì vị rất nhạt và không thấy được mùi vải đâu hết.
+{DRINKS#QUALITY, negative}
+
+#30
+Bingsu thái đỏ thì được hơn, lớp sữa bào làm bằng thái đỏ luôn, có milkfoam mặn mặn béo béo ở trên, sương sa, trân châu, sốt thái đỏ.
+{DRINKS#QUALITY, neutral}, {DRINKS#STYLE&OPTIONS, positive}
+
+#31
+Quán trang trí khá tối màu đồ uống đen đá thì mình uống thấy hơi nhạt miệng không ngọt và đậm đà.
+{DRINKS#QUALITY, negative}, {AMBIENCE#GENERAL, neutral}
+
+#32
+Không ồn ào xô bồ như mấy chỗ kia.
+{RESTAURANT#GENERAL, positive}
+
+#33
+Bánh thì mình gọi luôn bánh mới để thử là bánh Jajang Cheese nhân mandu chiên với mì tương đen, cheese và bánh mandu cheese nhân mandu chiên với cheese.
+{FOOD#STYLE&OPTIONS, positive}
+
+#34
+Không gian cổ xưa nhìn bụi bặm, cn HNghi luôn hết chỗ nên là kiếm chỗ xong di r hãy order nhen.
+{RESTAURANT#GENERAL, neutral}, {AMBIENCE#GENERAL, negative}
+
+#35
+Không gian vỉa hè thoáng mát, khách cũng khá đông, phục vụ tạm.
+{SERVICE#GENERAL, neutral}, {AMBIENCE#GENERAL, positive}
+
+#36
+Mình thích đậu phộng nhất, thơm thơm, cay cay, ngọt ngọt mà ko bị dính nè.
+{FOOD#QUALITY, positive}
+
+#37
+🎈 Giá cả:hợp lí, tương xứng với chất lượng 😉.
+{RESTAURANT#PRICES, positive}
+
+#38
+Nhà hàng khá ít món, các món ko có sự đặc sắc hay độc đáo, dễ ăn bình dân vậy thôi.
+{FOOD#QUALITY, neutral}, {FOOD#STYLE&OPTIONS, neutral}
+
+#39
+Ngoài 1 vài điểm được được thì có cơ số điểm chưa được.
+{RESTAURANT#GENERAL, neutral}
+
+#40
+Nv order nhanh nhạy, nhiệt tình mà như có bạn mới nên order xong confirm lại cũng thấy bạn ấy ngại :)).
+{SERVICE#GENERAL, positive}
+
+#41
+Ăn kèm với rau cải non là thật ngon.
+{FOOD#QUALITY, positive}, {FOOD#STYLE&OPTIONS, neutral}
+
+#42
+Tiếc mỗi cái topping chỉ mỗi bánh plan thôi nhưng mà âu đó cũng là điều đặc biệt riêng PL mọi người đã quen với style uống không cần topping rồi ✌️.
+{DRINKS#QUALITY, positive}, {DRINKS#STYLE&OPTIONS, negative}
+
+#43
+Tôm cajun nhiều nhưng mình thấy vị hơn thiếu mặn và cay.
+{FOOD#QUALITY, negative}, {FOOD#STYLE&OPTIONS, negative}
+
+#44
+- thực đơn đơn giản:chả cá, lòng cá, cháo và canh.
+{FOOD#STYLE&OPTIONS, neutral}
+
+#45
+Do order qua delivery nên không biết không gia n thế nào.
+{AMBIENCE#GENERAL, neutral}
+
+#46
+Mình ăn được cay mà cấp độ 3 mì kim chi đã thấy bỏng hết miệng rùi huhu :( chắc cay 1 thì mới vừa quá.
+{FOOD#QUALITY, positive}
+
+#47
+Giá trung bình khoảng 50 k / cốc.
+{DRINKS#PRICES, neutral}
+
+#48
+Trà củng k ngon lắm.
+{DRINKS#QUALITY, negative}
+
+#49
+Giá cả cũng ngang ngang so với mấy tiệm khác nhưng chất lượng hơn hẳn, nhân viên thì rất dễ thương, vui vẻ.
+{RESTAURANT#PRICES, neutral}, {RESTAURANT#GENERAL, positive}, {SERVICE#GENERAL, positive}
+
+#50
+Còn nhạc thì cực lớn k có tập trung làm việc hay nói chuyện vs bạn bè được.
+{RESTAURANT#MISCELLANEOUS, negative}
+
+#51
+Mình thích ăn bún riêu ở đây nhất trong các quán mình từng ăn ở huế nè, vì cục riêu cua ở đây khá bự, lại đúng chất riêu và gạch cua luôn chứ không phải là chả cua như những quán khác nhé.
+{FOOD#QUALITY, positive}, {FOOD#STYLE&OPTIONS, positive}
+
+#52
+Bánh bở, rất bình thường và không hợp với trà này cho lắm.
+{FOOD#QUALITY, negative}
+
+#53
+Mình ăn bò truyền thống 25 kèm nước ngọt, salat, bánh mì free.
+{FOOD#PRICES, neutral}, {FOOD#STYLE&OPTIONS, neutral}
+
+#54
+✔️Mình là mình hay uống trà sữa ôlong, trà sữa trà xanh, trà sữa trà đen cũng tạm được.
+{DRINKS#STYLE&OPTIONS, neutral}
+
+#55
+Nói tới Gong Cha thì chất lượng nước uống ko phải bàn rồi.
+{FOOD#QUALITY, positive}, {DRINKS#QUALITY, positive}
+
+#56
+- bánh to ăn hơi ngán nhưng mà ngon, rất thích.
+{FOOD#QUALITY, positive}, {FOOD#STYLE&OPTIONS, positive}
+
+#57
+Ly trà hoa hồng thì bình thường rồi không nói.
+{DRINKS#QUALITY, neutral}
+
+#58
+Ăn thì rất hợp khẩu vị.
+{FOOD#QUALITY, positive}
+
+#59
+Còn hôm nay, gọi giao hàng, mình note nhiều cà phê và không dặn ít ngọt thì ly nước chỉ có mùi cà phê đậm hơn 1 tí, nhưng độ ngọt thì không thay đổi là mấy và không có vị caramel, hẳn là nhân viên quên cho syrup rồi.
+{SERVICE#GENERAL, negative}
+
+#60
+Đặc biệt Gong Cha cho rất ít đá và nhiều trà, nên lúc uống hết ly là đá vừa tan hết luôn, rất xứng đáng với số tiền bỏ ra, không phải kiểu múc đầy ly đá rồi mới đổ nước vô sau.
+{DRINKS#STYLE&OPTIONS, positive}
+
+#61
+Không gian ở đây vách bằg kính nên rất sáng.
+{AMBIENCE#GENERAL, positive}
+
+#62
+Thịt kho mềm mềm, ngọt ngọt, ăn chung với mì cực kì ngon, nếu có bán lẻ thì mình cũng mua về ăn.
+{FOOD#QUALITY, positive}
+
+#63
+Về phục vụ:Nhân viên phục vụ tận tình, đón khách ngay tại cửa.
+{SERVICE#GENERAL, positive}
+
+#64
+Nói chung về cơ bản là gần như k thể chê decor quán vì cực chỉn chu đến từng góc và các món đồ trang trí nhỏ, cả tầng 1 và tầng 2.
+{AMBIENCE#GENERAL, positive}
+
+#65
+Kêu phá lấu chiên để ăn thử, 1 phần khá ít, vị lạ lạ nhưng cũng ngon.
+{FOOD#QUALITY, positive}, {FOOD#STYLE&OPTIONS, negative}
+
+#66
+⭕️Đồ uống:lần này mình gọi trà sữa kuri size M 30 đá nguyên đường🤦🏻‍♀️.
+{DRINKS#STYLE&OPTIONS, neutral}
+
+#67
+Thiết kế trang trí khá đơn giản, không được đẹp mắt 😂.
+{AMBIENCE#GENERAL, negative}
+
+#68
+Không gian đẹp nhân viên lịch sự menu phong phú, ăn bánh uống trà thật thanh nhã ❤️.
+{SERVICE#GENERAL, positive}, {AMBIENCE#GENERAL, positive}
+
+#69
+Nói chung là nó khá đẹp, hoa hồng, nến trải dài cầu thang tầng 1 lên tầng 3.
+{AMBIENCE#GENERAL, positive}
+
+#70
+Không gian thoáng mát, sạch sẽ, hợp đi ăn gia đình.
+{AMBIENCE#GENERAL, positive}
+
+#71
+Quán đi sáng chiều gì cũng đông á, bữa mình đi chiều ăn thấy không ngon gì lắm, nay ăn buổi sáng thấy ổn hơn á.
+{RESTAURANT#GENERAL, neutral}
+
+#72
+Nhân viên ở đây lịch sự.
+{SERVICE#GENERAL, positive}
+
+#73
+Nồi lầu kim chi bò mỹ nươc lẩu ngon, đậm đà, cay vừa nhè nhẹ thui, dc một đia ba chỉ bò :)).
+{FOOD#QUALITY, positive}
+
+#74
+Menu dày đặc vậy chứ chia theo 1 số món chính về:dê, cuu, gà, cá, bánh naan, cơm nị.
+{FOOD#STYLE&OPTIONS, neutral}
+
+#75
+Khoai to, chiên vừa ăn không quá ngấy dầu.
+{FOOD#STYLE&OPTIONS, positive}
+
+#76
+Quán ni ít người biết vì nằm hẻo lánh quá.
+{LOCATION#GENERAL, neutral}
+
+#77
+Mình order ly trà sữa trà xanh hạt nha đam, uống ngon.
+{DRINKS#QUALITY, positive}, {DRINKS#STYLE&OPTIONS, neutral}
+
+#78
+Nay bạn mình dẫn mình đi ăn sn mình, mình chọn quán, quán nhỏ, nay quán khá đông.
+{RESTAURANT#GENERAL, neutral}, {AMBIENCE#GENERAL, negative}
+
+#79
+Thịt bò ngon cực kì, mềm và thơm ơi là thơm.
+{FOOD#QUALITY, positive}
+
+#80
+Trà ngon, thơm, ko quá ngọt, váng sữa cũng ổn có điều ít quá, trân châu trắng ok, trà lài xanh có sữa 32k ngon nè.
+{DRINKS#PRICES, neutral}, {DRINKS#QUALITY, positive}, {DRINKS#STYLE&OPTIONS, positive}
+
+#81
+Giá cả:nếu mình nhớ ko nhầm thì bữa này nhà mình hết hơn 600k.
+{RESTAURANT#PRICES, neutral}
+
+#82
+Vị chua chua ngọt ngọt thanh thanh ăn rất Ok.
+{DRINKS#QUALITY, positive}
+
+#83
+1 suất 1 lạng ăn no căng.
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#84
+Salad gà BBQ và soup mình đánh giá ở mức ổn.
+{FOOD#QUALITY, positive}, {FOOD#STYLE&OPTIONS, positive}
+
+#85
+# Giá cả:bằng với các quán nước khác giá tầm 40-50 k.
+{RESTAURANT#PRICES, neutral}
+
+#86
+Giá trung bình thôi.
+{RESTAURANT#PRICES, neutral}
+
+#87
+Cà ri hình như 70 K / phần, bánh mì 3K, sẽ quay lại, chắc chắn.
+{FOOD#PRICES, neutral}, {RESTAURANT#GENERAL, positive}
+
+#88
+SƯơng sa, sương sáo cũng ngon.
+{DRINKS#QUALITY, positive}
+
+#89
+Hay là quán ko cho mang nước vs thức ăn bên ngoài vào nhưng CHO MANG BIA VÀO UỐNG.
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#90
+Quầy tráng miệng thì khỏi chê, hôm mình đi có cả pannacotta và tiramisu á, không đúng chất tuy nhiên cũng là ngon :)).
+{FOOD#QUALITY, positive}, {FOOD#STYLE&OPTIONS, positive}
+
+#91
+Yaourt đá và trà đào ở đây ngon, nên thử qua !
+{DRINKS#QUALITY, positive}
+
+#92
+Nhưng được cái ăn ngon lẩu ăn cũng khá là được.
+{FOOD#QUALITY, positive}
+
+#93
+Canh thì hơi bị ngọt như kiểu miền tây nha.
+{FOOD#QUALITY, neutral}
+
+#94
+Món ăn:Order một Yogen Matcha với Yogen truyền thống.
+{DRINKS#STYLE&OPTIONS, neutral}
+
+#95
+Cả hai phần ăn đều ngon, nêm nếm rất vừa miệng.
+{FOOD#QUALITY, positive}
+
+#96
+Cơm gà ở đây khá ngon.
+{FOOD#QUALITY, positive}
+
+#97
+Trong một con hẻm nhỏ, yên ắn, rất hợp với phong cách quán Hội An.
+{AMBIENCE#GENERAL, positive}
+
+#98
+Nhân viên khá nhiệt tình, mình thấy chi nhánh này chỉ đó đem đồ ăn ra lâu thôi chứ NV cũng ổn lắm mà ta, thấy hiền queo luôn.
+{SERVICE#GENERAL, positive}
+
+#99
+Gia đình mình đã ăn tối rồi, nhưng nghe khen quán làm chả cá ngon cũng muốn đến ăn thử.
+{RESTAURANT#GENERAL, positive}
+
+#100
+Chị chủ khá dễ tính.
+{SERVICE#GENERAL, positive}
+
+#101
+Giá cả hợp lí vừa túi tiền của học sinh.
+{RESTAURANT#PRICES, positive}
+
+#102
+Khoai lang nghiền ăn cũng ngon, có điều mùi hơi khó chịu.
+{FOOD#QUALITY, positive}
+
+#103
+🍃Món ăn:Mình đi 3 người và gọi các món:Japanese tomato pasta, Saturdays hamburger with fried shrimp, Saturdays hamburger cheese melt.
+{FOOD#STYLE&OPTIONS, neutral}
+
+#104
+Quán không gian vừa phải ko rộng như các chi nhánh khác a.
+{AMBIENCE#GENERAL, neutral}
+
+#105
+Bánh ở đây bị cái hơi bất tiện là giờ chỉ có size to bánh tròn và muốn mua thì phải order trước 1-2 ngày gì đó.
+{FOOD#STYLE&OPTIONS, negative}, {RESTAURANT#MISCELLANEOUS, negative}
+
+#106
+Lần đầu thử món trà đào, trà đào ở đây đặc biệt hơn các chỗ khác, vị thanh không bị quá ngọt, miếng đào thì dai giòn.
+{DRINKS#QUALITY, positive}
+
+#107
+Mình đi lúc trưa nhưng quán vẫn đông lắm nha, phải ngồi bàn nhỏ sau đó mới có bàn lớn để ngồi.
+{AMBIENCE#GENERAL, negative}
+
+#108
+KFC đang có chương trình giảm giá cơm các loại còn 25k vào giờ trưa.
+{RESTAURANT#MISCELLANEOUS, neutral}
+
+#109
+Kem ở đây chỉ 3 nghìn mà rất ngon, kem va ni thơm mùi sữa, bánh ốc quế giòn.
+{DRINKS#PRICES, positive}, {DRINKS#QUALITY, positive}, {DRINKS#STYLE&OPTIONS, positive}
+
+#110
+Gần đoạn ngã tư Phố Huế giao với Trần Xuân Soạn.
+{LOCATION#GENERAL, neutral}
+
+#111
+Huyết mền ăn khá là ngon nha.
+{FOOD#QUALITY, positive}
+
+#112
+Có mua 1 ly trà sữa trân châu nhưng lại không có trân châu.
+{DRINKS#STYLE&OPTIONS, negative}
+
+#113
+☀️ Cái cửa hàng tiện lợi vị trí đắc địa quá đẹp ngay bờ hồ nên lúc nào cũng trong tình trạng quá tải :)).
+{RESTAURANT#GENERAL, positive}, {LOCATION#GENERAL, positive}
+
+#114
+Đừng nghĩ là Gongcha đông nghĩa là khách rất cần các bạn thì có thái độ đó.
+{SERVICE#GENERAL, negative}
+
+#115
+Ngoài ra còn có set lẩu hay nướng có thể ăn thêm.
+{RESTAURANT#MISCELLANEOUS, neutral}
+
+#116
+Mình mua bánh mì heo quay và sữa đậu nành ở cửa hàng Bami Bread Giảng Võ.
+{RESTAURANT#MISCELLANEOUS, neutral}
+
+#117
+Một dĩa từ 120-150 k.
+{RESTAURANT#PRICES, neutral}
+
+#118
+Một ly khảng 50k, nghe hơi mắc nhưng mà một ly cũng khá nhiều, uống mà no anh ách bụng.
+{DRINKS#PRICES, negative}, {DRINKS#STYLE&OPTIONS, positive}
+
+#119
+Về đồ ăn khá tệ so với mức giá voucher 185k.
+{FOOD#QUALITY, negative}, {RESTAURANT#PRICES, negative}
+
+#120
+Hôm nay đến mình order sườn phomai với lẩu, nhưng mình hơi thất vọng vì lẩu hơi lạc qá k đc đậm đà như ăn lẩu rau củ thì đúng hơn, còn sườn k ngon bằng gà.
+{FOOD#QUALITY, negative}, {FOOD#STYLE&OPTIONS, neutral}
+
+#121
+Mình ăn bò lúc lắc, phần bò này siêu khổng lồ, rất chất lượng, thịt bò mềm và ngon ngọt, Titi chắc còn thua xa 😂.
+{FOOD#QUALITY, positive}, {FOOD#STYLE&OPTIONS, positive}
+
+#122
+Tô bún chả cá đầy đủ măng, chả, xu, .
+{FOOD#STYLE&OPTIONS, positive}
+
+#123
+Quán rộng rãi, thoáng mát.
+{AMBIENCE#GENERAL, positive}
+
+#124
+Sau vài lần thử thì mình thấy với giá thành chung 40-50 k 1 cốc thì mình thấy uống hãng khác ok hơn =)))).
+{RESTAURANT#PRICES, negative}
+
+#125
+Mình đợi khoảng 15p thì có bàn.
+{RESTAURANT#MISCELLANEOUS, neutral}
+
+#126
+Nước lẩu khá ổn, cay cay vị kim chi, nhúng bò mỹ nhiều nên nước lẩu cũng ngọt và ngon lắm đó.
+{FOOD#QUALITY, positive}
+
+#127
+Một nhà hàng Ý đáng thử :).
+{RESTAURANT#GENERAL, positive}
+
+#128
+Có gà chiên, mục chiên tôm hiên, chim cút chiên, khoai tây chiên.
+{FOOD#STYLE&OPTIONS, neutral}
+
+#129
+Menu toàn là các món đồ Âu như pizza, mì Ý, sườn nướng, salad.
+{FOOD#STYLE&OPTIONS, neutral}
+
+#130
+Mình đi vào hôm mùng 1 nhưng khách khứa không quá đông đến mức thái độ phục vụ của nhân viên như thế này.
+{SERVICE#GENERAL, negative}
+
+#131
+Quán nằm ở tầng B2 khá dễ nhìn.
+{LOCATION#GENERAL, positive}
+
+#132
+Toạ lạc ngay khu đắc địa, xung quanh đó anh em cùng cha khác ông nội cũng xuất hiện rần rần, nhưng vẫn có sự khác biệt giữa Gongcha và các hiệu khác nhá, tuỳ khẩu vị sở thích mỗi người thôi nè.
+{LOCATION#GENERAL, positive}
+
+#133
+Đến đây mình chỉ thích mua kem hoặc mì thôi.
+{RESTAURANT#MISCELLANEOUS, neutral}
+
+#134
+Bánh:Bánh thì lúc nào cũng ngon rồi.
+{FOOD#QUALITY, positive}
+
+#135
+Giá ko rẻ nhưng chất lượng cũng được ^ ^.
+{RESTAURANT#PRICES, negative}, {RESTAURANT#GENERAL, positive}
+
+#136
+Chọn món, đợi lấy món, tính tiền, rồi lại thấy gia vị ăn kèm.
+{RESTAURANT#MISCELLANEOUS, neutral}
+
+#137
+Lotteria toàn có vị trí đắc địa mà ai đi qa cũng nhìn thấy luôn nhỉ :)).
+{LOCATION#GENERAL, positive}
+
+#138
+Pearl chocolate món mới của Mochio tea.
+{RESTAURANT#MISCELLANEOUS, neutral}
+
+#139
+Nhưng thái độ của anh bảo vệ đó lại vô củng bất mãn, đến lúc cuối cùng vẫn khẳng định là lỗi của mình.
+{SERVICE#GENERAL, negative}
+
+#140
+Kêu tính tiền thì hơn 30p ms xuất xong bill.
+{SERVICE#GENERAL, negative}
+
+#141
+Trà vải ở đây có vị đắng nhẹ của trà rất thích.
+{DRINKS#QUALITY, positive}
+
+#142
+Nhân viên lễ phép, lịch sự, không gian quán thì ngay chỗ shopping nên tha hồ ngắm người đi qua đi lại nhé.
+{SERVICE#GENERAL, positive}, {AMBIENCE#GENERAL, positive}
+
+#143
+Chạy xe gần 2 tiếng từ tp về quê mà còn nóng luôn hihi, gói cũng kĩ lắm.
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#144
+Dịch vụ:nhân viên chậm, hỏi mãi mới trả lời, lên đồ cũng chậm nữa, hồi trước thấy mọi người khen nhiều nhưng mà không ngờ tệ từ chất lượng đến dịch vụ như này.
+{RESTAURANT#GENERAL, negative}, {SERVICE#GENERAL, negative}
+
+#145
+Nhân viên phục vụ lịch sự, nhiệt tình, dễ thương.
+{SERVICE#GENERAL, positive}
+
+#146
+Được cái flan trứng rất láng mịn, trân châu trắng nhai vui miệng.
+{DRINKS#STYLE&OPTIONS, positive}
+
+#147
+Quán ở khúc Nguyễn Trãi 1 chiều, đối diện MaMa bbq, mình đi ngang thấy thường rất đông luôn.
+{LOCATION#GENERAL, neutral}
+
+#148
+🍗 Dịch vụ:vì là tầm trưa nên đợi đồ hơi lâu chút, nhân viên phục vụ chuyên nghiệp, sạch sẽ.
+{SERVICE#GENERAL, positive}
+
+#149
+Bánh canh khá ngon nhưng hơi nghiêng về vị ngọt hơn so với vị mặn.
+{FOOD#QUALITY, neutral}
+
+#150
+Tất cả các món làm đều vừa miệng, gọi là ngon xuất sắc thì ko phải nhưng khá ok, cơm dẻo ngon.
+{FOOD#QUALITY, positive}
+
+#151
+Mình chọn 1 phần Chuck Flap 500gr kèm sốt tiêu, 1 mực khoanh kiểu Âu, 1 mì Ý hải sản và 2 phần Cream Brulee.
+{FOOD#STYLE&OPTIONS, neutral}
+
+#152
+Kem việt quất ngon, thơm mùi việt quất, ăn siêu thích luôn.
+{FOOD#QUALITY, positive}
+
+#153
+Sốt tiêu ngon nhất, sau đó là sốt vang đỏ.
+{FOOD#QUALITY, positive}, {FOOD#STYLE&OPTIONS, positive}
+
+#154
+- Mực chiên giòn( 45k):khá dai, mực không tươi, chả ra làm sao.
+{FOOD#PRICES, neutral}, {FOOD#QUALITY, negative}
+
+#155
+Sẽ quay lại nữa để thử bingsu ^ ^ Hy vọng lần tới bánh toast sẽ ngon hơn.
+{RESTAURANT#GENERAL, positive}
+
+#156
+Chỗ này cũng tự phục vụ giống mấy nơi khác.
+{RESTAURANT#GENERAL, neutral}
+
+#157
+Giá cũng bình ổn với cả hệ thống.
+{RESTAURANT#PRICES, neutral}
+
+#158
+- Về món ăn:Hiện tại lúc mình đi hôm đó thì ko có menu 199k, chỉ có menu từ 279k trở lên( ko bít là do chỉ hôm đó thôi hay ở đây ko phục vụ menu 199k, nên các bạn hỏi kỷ trước khi book nhé).
+{FOOD#PRICES, neutral}
+
+#159
+Mình cũng k biết phải diễn tả cách phục vụ sao chứ quá tệ hơn cả chữ tệ nữa.
+{SERVICE#GENERAL, negative}
+
+#160
+Quán ngay mặt đường Bà Triệu.
+{LOCATION#GENERAL, neutral}
+
+#161
+Đi trưa ngày thường giá 180k ăn được, không chê chỗ nào, vì nhiều món và nêm tốt.
+{FOOD#STYLE&OPTIONS, positive}, {RESTAURANT#PRICES, neutral}, {RESTAURANT#GENERAL, positive}
+
+#162
+Cảm nhận thì decor của quán khá đẹp, bàn thấp ở dưới hết chỗ rồi do mình đi tầm 8h vào giờ cao điểm thì phải nên ngồi bàn cao nhất( cũng khoái) =)).
+{RESTAURANT#MISCELLANEOUS, neutral}, {AMBIENCE#GENERAL, positive}
+
+#163
+Gọi 1 beefsteak 1kg, nướng chín vừa, cắt 5 phần.
+{FOOD#STYLE&OPTIONS, neutral}
+
+#164
+Nếu mua qua Delivery now thì mất thêm phí ship thôi, bù lại sau sớm nhất 40 phút thì sẽ có trà sữa uống.
+{RESTAURANT#MISCELLANEOUS, neutral}
+
+#165
+💋 Vị trí:Nằm ở ngay mặt phố Huế thôi.
+{LOCATION#GENERAL, neutral}
+
+#166
+Mì trộn ngon nhưng phải chờ lâu dù khách k đông lắm 😂.
+{FOOD#QUALITY, positive}, {SERVICE#GENERAL, negative}
+
+#167
+Bánh canh cá lóc là món ăn phổ biến ở Huế nên hầu như quán nào cũng ngon, quán bánh canh Hoàng ni cũng không ngoại lệ á.
+{RESTAURANT#GENERAL, positive}
+
+#168
+Thật phân vân sau này k biết có nên ăn ở quán nữa k.
+{RESTAURANT#GENERAL, neutral}
+
+#169
+Mình gọi qua Deliver Now nên quán bọc cho kem cheese đỡ bị đổ cẩn thận ghê.
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#170
+Tưởng 150g ít ai dè ra ăn hoài không hết.
+{FOOD#STYLE&OPTIONS, positive}
+
+#171
+- Đồ uống mà mấy loại trà cũng ngon.
+{DRINKS#QUALITY, positive}
+
+#172
+Nhất là bánh nha, ngon cực kì luôn mà giá so với chất lượng thì ko thể gọi là mắc.
+{FOOD#PRICES, neutral}, {FOOD#QUALITY, positive}
+
+#173
+Nhân viên cũng siêu thân thiện, không gian thì đẹp và chất miễn bàn rồi nha ❤️❤️.
+{RESTAURANT#GENERAL, positive}, {SERVICE#GENERAL, positive}, {AMBIENCE#GENERAL, positive}
+
+#174
+Sẽ quay lại thử thêm bánh mặn:D.
+{RESTAURANT#GENERAL, positive}
+
+#175
+Hết món để khách gọi mới mag món mới.
+{SERVICE#GENERAL, negative}
+
+#176
+✔️Cứ 50 % đường 50 % đá là vừa nhé👌.
+{DRINKS#STYLE&OPTIONS, neutral}
+
+#177
+Nhưng đợt rồi ghé lại ăn Cơm Hến thì được biết quán bỏ hết các món Hến r 😹😹😹 thiệt tình quá buồn.
+{RESTAURANT#GENERAL, negative}
+
+#178
+Nếu mình uống kiểu 2 lớp thì không ngon lắm.
+{DRINKS#QUALITY, negative}
+
+#179
+Cái đồ đậy bự quá chồng mấy cái là chật chỗ, may mà mấy em nhân viên dọn nhanh chứ không là chật lắm.
+{SERVICE#GENERAL, positive}
+
+#180
+Các món đều chế biến hợp khẩu vị.
+{FOOD#QUALITY, positive}
+
+#181
+Ngồi phá lấu thì ở đây còn có các món ăn vặt nữa.
+{FOOD#STYLE&OPTIONS, neutral}
+
+#182
+💋 Vị trí: Chỗ này dễ tìm lắm.
+{LOCATION#GENERAL, positive}
+
+#183
+Có tráng miệng free nữa chứ, khi vừa tính tiền xong.
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#184
+Tổng bill mình ăn là 430k, mình với bạn có voucher 400k.
+{RESTAURANT#PRICES, neutral}
+
+#185
+Bò nướng ok, có mùi khói bạn mình thích, mềm và ngọt thịt.
+{FOOD#QUALITY, positive}
+
+#186
+Đang buồn chán thì foody quăng vô mặt em mấy cái voucher vầy nè.
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#187
+Bánh da lợn dai và ngon hơn.
+{FOOD#QUALITY, positive}
+
+#188
+Dù sao thì một phần bánh cũng khá lớn và ngọt nên khuyến khích rủ thêm bạn bè ăn phụ nhé haha.
+{FOOD#STYLE&OPTIONS, positive}
+
+#189
+Cửa hàng ở trong ngõ nhưng khá dễ tìm.
+{LOCATION#GENERAL, positive}
+
+#190
+Mặt bằng:Rộng rãi, đẹp và thoáng mát, giữ xe thênh thang.
+{AMBIENCE#GENERAL, positive}
+
+#191
+Ốc ở đây rất tươi ngon.
+{FOOD#QUALITY, positive}
+
+#192
+Ăn mệt nghỉ rất phù hợp với ai ăn khoẻ.
+{RESTAURANT#GENERAL, positive}
+
+#193
+* Dịch vụ:rất lịch sự và chuyên nghiệp.
+{SERVICE#GENERAL, positive}
+
+#194
+Còn ly mocha thì vị không đậm đà bằng nhưng xét cả ly thì vẫn ngon.
+{DRINKS#QUALITY, positive}
+
+#195
+Menu nhiều món lắm từ heo bò gà đến hải sản.
+{FOOD#STYLE&OPTIONS, positive}
+
+#196
+Đặc biệt lẩu bông, nơi tập hơp nhiều loại hoa nhất, cơ mà cái rổ nhỏ decor cũng làm mình muốn ăn hơn.
+{FOOD#STYLE&OPTIONS, positive}
+
+#197
+Điểm cộng cho quán là có view đẹp thôi.
+{AMBIENCE#GENERAL, positive}
+
+#198
+Nước uống thì nhập nhiều hơn lúc trước 🤗.
+{DRINKS#STYLE&OPTIONS, positive}
+
+#199
+Đặc biệt phần roll ở đây không hiểu kiểu gì mà cuộn to chà bá, mở banh họng mới ăn, nhai nguồm ngoàm mới hết 1 khoanh vì mình không thích cắn, rơi nhân ra hết.
+{FOOD#STYLE&OPTIONS, negative}
+
+#200
+Bánh đế mỏng ăn ok, có cái Beef pizza vị hơi mặn nên không ăn kèm tương cà.
+{FOOD#QUALITY, neutral}, {FOOD#STYLE&OPTIONS, neutral}
